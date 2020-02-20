@@ -9,3 +9,7 @@ Github nos ofrece:
 * Esto es la ostia
 
 Para mas información: [Instagram](https://instagram.com/jesuseliasalba)
+
+## Ya he realizado la instalación en windows.
+* Estoy modificando este documento con el comando:
+	/ start notepad README.md /
